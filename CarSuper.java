@@ -9,7 +9,7 @@ import java.util.Random;
 import processing.core.PApplet;
 
 //Animation Super class
-public class OnePunchMan extends PApplet
+public class CarSuper extends PApplet
 {
 	//PApplet object
 	public PApplet _p = new PApplet();
