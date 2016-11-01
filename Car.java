@@ -3,12 +3,12 @@
  * CS101-004
  */
 
-package sad;
+package car;
 
 import processing.core.PApplet;
 
 //non moving objects
-public class Car extends OnePunchMan
+public class Car extends CarSuper
 {
 	int x = 125, y = 210, s = 150;
 	Car(PApplet _p)
