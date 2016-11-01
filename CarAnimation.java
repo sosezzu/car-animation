@@ -8,7 +8,7 @@ package car;
 import java.util.ArrayList;
 import processing.core.PApplet;
 
-public class MyAnimation extends PApplet
+public class CarAnimation extends PApplet
 {
 	RoadLines roadlines;
 	
@@ -70,6 +70,6 @@ public class MyAnimation extends PApplet
 	}
 	public static void main(String args[])
 	{
-		PApplet.main(new String[] { sad.MyAnimation.class.getName() });
+		PApplet.main(new String[] { carr.CarAnimation.class.getName() });
 	}
 }
