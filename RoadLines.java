@@ -8,7 +8,7 @@ package car;
 import processing.core.PApplet;
 
 //animation of lines on road
-public class RoadLines extends OnePunchMan
+public class RoadLines extends CarSuper
 {
 	int x1;
 	public RoadLines(PApplet _p)
