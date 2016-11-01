@@ -8,7 +8,7 @@ package ca;
 import processing.core.PApplet;
 
 //animation of trees and multiplication
-public class Mountains extends OnePunchMan
+public class Mountains extends CarSuper
 {
 	final float HWRATIO = (float) 0.3846;
 	//random placement and color
