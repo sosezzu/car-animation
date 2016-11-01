@@ -8,7 +8,7 @@ package ca;
 import processing.core.PApplet;
 
 //animation of trees and multiplication
-public class Trees extends OnePunchMan
+public class Trees extends CarSuper
 {
 	final float HWRATIO = (float) 0.3846;
 	int x, h, bh, bw, by, c1, c2, c3;
