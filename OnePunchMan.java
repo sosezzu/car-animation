@@ -3,7 +3,7 @@
  * CS101-004
  */
 
-package sad;
+package car;
 
 import java.util.Random;
 import processing.core.PApplet;
