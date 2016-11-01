@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 import processing.core.PApplet;
 
-public class ArrList extends OnePunchMan
+public class ArrList extends CarSuper
 {
 	//Array Lists
 	ArrayList<Trees> trees = new ArrayList<Trees>();
